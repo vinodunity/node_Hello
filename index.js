@@ -44,8 +44,8 @@ app.get('/', (req, res) => {
     </head>
     <body>
       <div class="container">
-        <h1>Welcome to Unity PHM </h1>
-        <img src="/logo.png" alt="Test Image">
+        <h2>Welcome to Unity PHM </h2>
+        <img src="/phmhome.png" alt="Home Page">
       </div>
     </body>
     </html>

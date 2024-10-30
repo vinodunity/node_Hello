@@ -29,7 +29,7 @@ app.get('/', (req, res) => {
           background-color: #fff;
           padding: 20px;
           border-radius: 10px;
-          box-shadow: 1 4px 8px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         }
         h1 {
           color: #333;
@@ -45,7 +45,7 @@ app.get('/', (req, res) => {
     <body>
       <div class="container">
         <h1>Welcome to Unity PHM </h1>
-        <img src="/phmhome.png" alt="Test Image">
+        <img src="/logo.png" alt="Test Image">
       </div>
     </body>
     </html>

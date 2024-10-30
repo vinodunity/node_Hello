@@ -37,7 +37,7 @@ app.get('/', (req, res) => {
         img {
           max-width: 100%;
           height: auto;
-          border-radius: 8px;
+          border-radius: 9px;
           margin-top: 20px;
         }
       </style>

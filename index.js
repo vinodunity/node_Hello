@@ -55,7 +55,7 @@ const router = express.Router();
 
 // Hello World for index page
 app.get('/', function (req, res) {
-    return res.send("Welcome to Unity PHM Azure Managed App! :-)");
+    return res.send("Welcome to Unity PHM Azure Managed Application! :-)");
 })
 
 app.get('/api', function (req, res) {
